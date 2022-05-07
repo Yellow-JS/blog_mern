@@ -1,0 +1,11 @@
+.cannot_scroll{
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+
+.full_img{
+    height: 100vh;
+}
